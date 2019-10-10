@@ -79,6 +79,9 @@ From Keynote:
 
 <br>
 
+
+# Suggestions for Future Improvements:
+
 To improve results in a future study, it is advised to:
 * Include income and self-reported insulin dosing regiment in order to more accurately evaluate diabetic patient prognosis.
 * Increase size of population by including additional patient records in the database.
