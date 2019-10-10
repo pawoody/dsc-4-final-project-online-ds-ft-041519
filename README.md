@@ -48,7 +48,7 @@ The data contains such attributes as patient number, race, gender, age, admissio
 ![](img/Multicollinearity_assessment.png)
 
 * Ensemble Method Feature Importance:
-![](img/Screen_Shot_2019-10-10 at 2.53.48 PM.png)
+![](img/Screen_Shot_2019-10-10_at_2.53.48_PM.png)
 
 * Code - Final Deep Learning Model, with SMOTE oversampling of minority class:
 ![](img/final_model_code.png)
@@ -62,7 +62,7 @@ While not achieving the predictive ability hoped prior to the investigation, the
 <br>
 
 From Keynote:
-![](img/Screen_Shot_2019-10-10 at 2.45.19 PM.png)
+![](img/Screen_Shot_2019-10-10_at_2.45.19_PM.png)
 * In all of the models fitted in this investigation, changes in insulin dosage was among the most significant features in determining whether patient was readmitted.
 * Because insulin can be expensive, as much as $700 per month for some patients, according to a WebMD report published in 2019, patients that cannot afford the medication may fail to fill prescriptions given by doctors because they can’t afford them.
 
