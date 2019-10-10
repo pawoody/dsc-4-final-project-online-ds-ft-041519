@@ -48,7 +48,7 @@ The data contains such attributes as patient number, race, gender, age, admissio
 ![](img/Multicollinearity_assessment.png)
 
 * Ensemble Method Feature Importance:
-![](img/ensemble_feat_importance.png)
+![](img/Screen Shot 2019-10-10 at 2.53.48 PM.png)
 
 * Code - Final Deep Learning Model, with SMOTE oversampling of minority class:
 ![](img/final_model_code.png)
