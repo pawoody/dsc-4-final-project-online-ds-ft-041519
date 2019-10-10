@@ -20,7 +20,7 @@ When considering an approach to tackling this issue, an old addage may ring true
 
 <br>
 
-In this investigation, we'll use a [dataset](http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) representing 10 years (1999-2008) of clinical care records from 130 US hoptials. The dataset, contains ~100,000 patient encounters meeting the following criteria:
+In this investigation, we'll use a [dataset](http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) representing 10 years (1999-2008) of clinical care records from 130 US hoptials. The dataset contains ~100,000 patient encounters meeting the following criteria:
 
 1. It is an inpatient encounter (a hospital admission).
 2. It is a diabetic encounter, that is, one during which any kind of diabetes was entered to the system as a diagnosis.
@@ -63,12 +63,11 @@ Final Model Performance:
 Despite a reduction in accuracy (especially in test performance) compared to the Random Forest Classifier et al used previously in this investigation, the results of modeling after performing SMOTE to oversample the minority class did show an improvement in the recall ability of the "final" Deep Learning Model.
 
 <br>
-<br>
 Accuracy Score:
 Training accuracy:  51.2%
 Testing accuracy:  46.2%
 <br>
-<br>
+
 While not achieving the predictive ability hoped prior to the investigation, there are several useful conclusions we can draw.
 <br>
 
