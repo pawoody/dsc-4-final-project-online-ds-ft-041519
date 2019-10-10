@@ -58,6 +58,15 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 # Conclusions
 
+Final Model Performance:
+
+Despite a reduction in accuracy (especially in test performance) compared to the Random Forest Classifier et al used previously in this investigation, the results of modeling after performing SMOTE to oversample the minority class did show an improvement in the recall ability of the "final" Deep Learning Model.
+<br>
+Accuracy Score:
+Training accuracy:  51.2%
+Testing accuracy:  46.2%
+<br>
+<br>
 While not achieving the predictive ability hoped prior to the investigation, there are several useful conclusions we can draw.
 <br>
 
