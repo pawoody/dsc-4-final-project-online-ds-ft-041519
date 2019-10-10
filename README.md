@@ -38,19 +38,35 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 # Figures of Interest
 
+* Target Variable Class Distribution:
 ![](img/target_var_distribution.png)
+
+* Dataset Ethnicity Makeup:
 ![](img/dataset_ethnicity_counts.png)
+
+* Feature Multicollinearity Assessment before modeling:
 ![](img/Multicollinearity_assessment.png)
+
+* Ensemble Method Feature Importance:
 ![](img/ensemble_feat_importance.png)
+
+* Code - Final Deep Learning Model, with SMOTE oversampling of minority class:
 ![](img/final_model_code.png)
+
+* Confusion Matrix: Predictive ability of "Final" Deep learning model
 ![](img/cnf_matrix_final.png)
 
 # Conclusions
 
 While not achieving the predictive ability hoped prior to the investigation, there are several useful conclusions we can draw.
+<br>
+
+From Keynote:
 ![](img/Screen Shot 2019-10-10 at 2.45.19 PM.png)
 * In all of the models fitted in this investigation, changes in insulin dosage was among the most significant features in determining whether patient was readmitted.
 * Because insulin can be expensive, as much as $700 per month for some patients, according to a WebMD report published in 2019, patients that cannot afford the medication may fail to fill prescriptions given by doctors because they can’t afford them.
+
+<br>
 
 To improve results in a future study, it is advised to:
 * Include income and self-reported insulin dosing regiment in order to more accurately evaluate diabetic patient prognosis.
